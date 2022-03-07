@@ -1,0 +1,212 @@
+C:\Users\nasyr\source\repos\poject2\poject2\bin\Debug\poject2.exe.config
+C:\Users\nasyr\source\repos\poject2\poject2\bin\Debug\poject2.exe
+C:\Users\nasyr\source\repos\poject2\poject2\bin\Debug\poject2.pdb
+C:\Users\nasyr\source\repos\poject2\poject2\obj\Debug\poject2.csprojAssemblyReference.cache
+C:\Users\nasyr\source\repos\poject2\poject2\obj\Debug\poject2.Properties.Resources.resources
+C:\Users\nasyr\source\repos\poject2\poject2\obj\Debug\poject2.csproj.GenerateResource.cache
+C:\Users\nasyr\source\repos\poject2\poject2\obj\Debug\poject2.csproj.CoreCompileInputs.cache
+C:\Users\nasyr\source\repos\poject2\poject2\obj\Debug\poject2.exe
+C:\Users\nasyr\source\repos\poject2\poject2\obj\Debug\poject2.pdb
+C:\Users\nasyr\source\repos\poject2\poject2\bin\Debug\MySql.Data.dll
+C:\Users\nasyr\source\repos\poject2\poject2\bin\Debug\Google.Protobuf.dll
+C:\Users\nasyr\source\repos\poject2\poject2\bin\Debug\Zstandard.Net.dll
+C:\Users\nasyr\source\repos\poject2\poject2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\nasyr\source\repos\poject2\poject2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\nasyr\source\repos\poject2\poject2\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\nasyr\source\repos\poject2\poject2\bin\Debug\Renci.SshNet.dll
+C:\Users\nasyr\source\repos\poject2\poject2\bin\Debug\System.Memory.dll
+C:\Users\nasyr\source\repos\poject2\poject2\bin\Debug\System.Buffers.dll
+C:\Users\nasyr\source\repos\poject2\poject2\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\nasyr\source\repos\poject2\poject2\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\nasyr\source\repos\poject2\poject2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nasyr\source\repos\poject2\poject2\bin\Debug\MySql.Data.xml
+C:\Users\nasyr\source\repos\poject2\poject2\obj\Debug\poject2.exe.config
+C:\Users\nasyr\source\repos\poject2\poject2\obj\Debug\poject2.csproj.CopyComplete
+C:\Users\nasyr\source\repos\poject2\poject2\obj\Debug\poject2.Log.resources
+C:\Users\nasyr\source\repos\poject2\poject2\obj\Debug\poject2.Reg.resources
+C:\Users\nasyr\source\repos\poject2\poject2\obj\Debug\poject2.Admin.resources
+C:\Users\nasyr\source\repos\poject2\poject2\obj\Debug\poject2.ShowUsers.resources
+C:\Users\nasyr\source\repos\poject2\poject2\obj\Debug\poject2.Student.resources
+C:\Users\nasyr\source\repos\poject2\poject2\obj\Debug\poject2.Teacher.resources
+C:\Users\nasyr\source\repos\poject2\poject2\obj\Debug\poject2.csproj.ResolveComReference.cache
+C:\Users\nasyr\source\repos\poject2\poject2\obj\Debug\poject2.TeacherCheck.resources
+C:\Users\nasyr\source\repos\poject2\poject2\obj\Debug\poject2.TeacherResult.resources
+C:\Users\nasyr\source\repos\poject2\poject2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nasyr\source\repos\poject2\poject2\bin\Debug\Npgsql.dll
+C:\Users\nasyr\source\repos\poject2\poject2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nasyr\source\repos\poject2\poject2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\nasyr\source\repos\poject2\poject2\bin\Debug\System.Text.Json.dll
+C:\Users\nasyr\source\repos\poject2\poject2\bin\Debug\System.Threading.Channels.dll
+C:\Users\nasyr\source\repos\poject2\poject2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\nasyr\source\repos\poject2\poject2\bin\Debug\System.ValueTuple.dll
+C:\Users\nasyr\source\repos\poject2\poject2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\nasyr\source\repos\poject2\poject2\bin\Debug\Npgsql.xml
+C:\Users\nasyr\source\repos\poject2\poject2\bin\Debug\System.Buffers.xml
+C:\Users\nasyr\source\repos\poject2\poject2\bin\Debug\System.Memory.xml
+C:\Users\nasyr\source\repos\poject2\poject2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\nasyr\source\repos\poject2\poject2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nasyr\source\repos\poject2\poject2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\nasyr\source\repos\poject2\poject2\bin\Debug\System.Text.Json.xml
+C:\Users\nasyr\source\repos\poject2\poject2\bin\Debug\System.Threading.Channels.xml
+C:\Users\nasyr\source\repos\poject2\poject2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\nasyr\source\repos\poject2\poject2\bin\Debug\System.ValueTuple.xml
+C:\Users\nasyr\source\repos\poject2\poject2\obj\Debug\poject2.diagr.resources
+C:\Users\nasyr\source\repos\poject2\poject2\obj\Debug\poject2.student1.resources
+C:\Users\nasyr\source\repos\poject2\poject2\obj\Debug\poject2.RESULTS.resources
+C:\Users\nasyr\source\repos\poject2\poject2\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\nasyr\source\repos\poject2\poject2\bin\Debug\System.Collections.Immutable.dll
+C:\Users\nasyr\source\repos\poject2\poject2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nasyr\source\repos\poject2\poject2\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\nasyr\source\repos\poject2\poject2\bin\Debug\System.Collections.Immutable.xml
+C:\Users\nasyr\source\repos\poject2\poject2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\nasyr\source\repos\poject2\poject2\obj\Debug\poject2.MainMenu.resources
+C:\Users\nasyr\source\repos\poject2\poject2\obj\Debug\poject2.Primeri.resources
+C:\Users\nasyr\source\repos\poject2\poject2\obj\Debug\poject2.Theory.resources
+C:\Users\nasyr\source\repos\poject2\poject2\obj\Debug\poject2.student2.resources
+C:\Users\nasyr\source\repos\poject2\poject2\obj\Debug\poject2.test2.resources
+C:\Users\nasyr\source\repos\poject2\poject2\obj\Debug\poject2.results2.resources
+C:\Users\nasyr\source\repos\poject2\poject2\obj\Debug\poject2.results3.resources
+C:\Users\nasyr\source\repos\poject2\poject2\obj\Debug\poject2.student3.resources
+C:\Users\nasyr\source\repos\poject2\poject2\obj\Debug\poject2.test3.resources
+C:\Users\nasyr\source\repos\poject2\poject2\obj\Debug\poject2.certify.resources
+C:\Users\Дмитрий\Desktop\Новая папка\poject2\poject2\bin\Debug\poject2.exe.config
+C:\Users\Дмитрий\Desktop\Новая папка\poject2\poject2\bin\Debug\poject2.exe
+C:\Users\Дмитрий\Desktop\Новая папка\poject2\poject2\bin\Debug\poject2.pdb
+C:\Users\Дмитрий\Desktop\Новая папка\poject2\poject2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Дмитрий\Desktop\Новая папка\poject2\poject2\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Дмитрий\Desktop\Новая папка\poject2\poject2\bin\Debug\Npgsql.dll
+C:\Users\Дмитрий\Desktop\Новая папка\poject2\poject2\bin\Debug\System.Buffers.dll
+C:\Users\Дмитрий\Desktop\Новая папка\poject2\poject2\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Дмитрий\Desktop\Новая папка\poject2\poject2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Дмитрий\Desktop\Новая папка\poject2\poject2\bin\Debug\System.Memory.dll
+C:\Users\Дмитрий\Desktop\Новая папка\poject2\poject2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Дмитрий\Desktop\Новая папка\poject2\poject2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Дмитрий\Desktop\Новая папка\poject2\poject2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Дмитрий\Desktop\Новая папка\poject2\poject2\bin\Debug\System.Text.Json.dll
+C:\Users\Дмитрий\Desktop\Новая папка\poject2\poject2\bin\Debug\System.Threading.Channels.dll
+C:\Users\Дмитрий\Desktop\Новая папка\poject2\poject2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Дмитрий\Desktop\Новая папка\poject2\poject2\bin\Debug\System.ValueTuple.dll
+C:\Users\Дмитрий\Desktop\Новая папка\poject2\poject2\bin\Debug\Google.Protobuf.dll
+C:\Users\Дмитрий\Desktop\Новая папка\poject2\poject2\bin\Debug\Zstandard.Net.dll
+C:\Users\Дмитрий\Desktop\Новая папка\poject2\poject2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Дмитрий\Desktop\Новая папка\poject2\poject2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Дмитрий\Desktop\Новая папка\poject2\poject2\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Дмитрий\Desktop\Новая папка\poject2\poject2\bin\Debug\Renci.SshNet.dll
+C:\Users\Дмитрий\Desktop\Новая папка\poject2\poject2\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Дмитрий\Desktop\Новая папка\poject2\poject2\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Дмитрий\Desktop\Новая папка\poject2\poject2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Дмитрий\Desktop\Новая папка\poject2\poject2\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Дмитрий\Desktop\Новая папка\poject2\poject2\bin\Debug\MySql.Data.xml
+C:\Users\Дмитрий\Desktop\Новая папка\poject2\poject2\bin\Debug\Npgsql.xml
+C:\Users\Дмитрий\Desktop\Новая папка\poject2\poject2\bin\Debug\System.Buffers.xml
+C:\Users\Дмитрий\Desktop\Новая папка\poject2\poject2\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Дмитрий\Desktop\Новая папка\poject2\poject2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Дмитрий\Desktop\Новая папка\poject2\poject2\bin\Debug\System.Memory.xml
+C:\Users\Дмитрий\Desktop\Новая папка\poject2\poject2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Дмитрий\Desktop\Новая папка\poject2\poject2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Дмитрий\Desktop\Новая папка\poject2\poject2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Дмитрий\Desktop\Новая папка\poject2\poject2\bin\Debug\System.Text.Json.xml
+C:\Users\Дмитрий\Desktop\Новая папка\poject2\poject2\bin\Debug\System.Threading.Channels.xml
+C:\Users\Дмитрий\Desktop\Новая папка\poject2\poject2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Дмитрий\Desktop\Новая папка\poject2\poject2\bin\Debug\System.ValueTuple.xml
+C:\Users\Дмитрий\Desktop\Новая папка\poject2\poject2\obj\Debug\poject2.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\Desktop\Новая папка\poject2\poject2\obj\Debug\poject2.exe.config
+C:\Users\Дмитрий\Desktop\Новая папка\poject2\poject2\obj\Debug\poject2.csproj.ResolveComReference.cache
+C:\Users\Дмитрий\Desktop\Новая папка\poject2\poject2\obj\Debug\poject2.Admin.resources
+C:\Users\Дмитрий\Desktop\Новая папка\poject2\poject2\obj\Debug\poject2.certify.resources
+C:\Users\Дмитрий\Desktop\Новая папка\poject2\poject2\obj\Debug\poject2.diagr.resources
+C:\Users\Дмитрий\Desktop\Новая папка\poject2\poject2\obj\Debug\poject2.Log.resources
+C:\Users\Дмитрий\Desktop\Новая папка\poject2\poject2\obj\Debug\poject2.MainMenu.resources
+C:\Users\Дмитрий\Desktop\Новая папка\poject2\poject2\obj\Debug\poject2.Primeri.resources
+C:\Users\Дмитрий\Desktop\Новая папка\poject2\poject2\obj\Debug\poject2.Properties.Resources.resources
+C:\Users\Дмитрий\Desktop\Новая папка\poject2\poject2\obj\Debug\poject2.Reg.resources
+C:\Users\Дмитрий\Desktop\Новая папка\poject2\poject2\obj\Debug\poject2.RESULTS.resources
+C:\Users\Дмитрий\Desktop\Новая папка\poject2\poject2\obj\Debug\poject2.results2.resources
+C:\Users\Дмитрий\Desktop\Новая папка\poject2\poject2\obj\Debug\poject2.results3.resources
+C:\Users\Дмитрий\Desktop\Новая папка\poject2\poject2\obj\Debug\poject2.ShowUsers.resources
+C:\Users\Дмитрий\Desktop\Новая папка\poject2\poject2\obj\Debug\poject2.Student.resources
+C:\Users\Дмитрий\Desktop\Новая папка\poject2\poject2\obj\Debug\poject2.student1.resources
+C:\Users\Дмитрий\Desktop\Новая папка\poject2\poject2\obj\Debug\poject2.student2.resources
+C:\Users\Дмитрий\Desktop\Новая папка\poject2\poject2\obj\Debug\poject2.student3.resources
+C:\Users\Дмитрий\Desktop\Новая папка\poject2\poject2\obj\Debug\poject2.Teacher.resources
+C:\Users\Дмитрий\Desktop\Новая папка\poject2\poject2\obj\Debug\poject2.TeacherCheck.resources
+C:\Users\Дмитрий\Desktop\Новая папка\poject2\poject2\obj\Debug\poject2.TeacherResult.resources
+C:\Users\Дмитрий\Desktop\Новая папка\poject2\poject2\obj\Debug\poject2.test2.resources
+C:\Users\Дмитрий\Desktop\Новая папка\poject2\poject2\obj\Debug\poject2.test3.resources
+C:\Users\Дмитрий\Desktop\Новая папка\poject2\poject2\obj\Debug\poject2.Theory.resources
+C:\Users\Дмитрий\Desktop\Новая папка\poject2\poject2\obj\Debug\poject2.csproj.GenerateResource.cache
+C:\Users\Дмитрий\Desktop\Новая папка\poject2\poject2\obj\Debug\poject2.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\Новая папка\poject2\poject2\obj\Debug\poject2.csproj.CopyComplete
+C:\Users\Дмитрий\Desktop\Новая папка\poject2\poject2\obj\Debug\poject2.exe
+C:\Users\Дмитрий\Desktop\Новая папка\poject2\poject2\obj\Debug\poject2.pdb
+C:\Users\ZDani\Downloads\Новая папка\poject2\poject2\obj\Debug\poject2.csproj.AssemblyReference.cache
+C:\Users\ZDani\Downloads\Новая папка\poject2\poject2\obj\Debug\poject2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ZDani\Downloads\Новая папка\poject2\poject2\obj\Debug\poject2.exe.config
+C:\Users\ZDani\Downloads\Новая папка\poject2\poject2\obj\Debug\poject2.exe
+C:\Users\ZDani\Downloads\Новая папка\poject2\poject2\obj\Debug\poject2.pdb
+C:\Users\ZDani\Downloads\Новая папка\poject2\poject2\bin\Debug\poject2.exe.config
+C:\Users\ZDani\Downloads\Новая папка\poject2\poject2\bin\Debug\poject2.exe
+C:\Users\ZDani\Downloads\Новая папка\poject2\poject2\bin\Debug\poject2.pdb
+C:\Users\ZDani\Downloads\Новая папка\poject2\poject2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ZDani\Downloads\Новая папка\poject2\poject2\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\ZDani\Downloads\Новая папка\poject2\poject2\bin\Debug\Npgsql.dll
+C:\Users\ZDani\Downloads\Новая папка\poject2\poject2\bin\Debug\System.Buffers.dll
+C:\Users\ZDani\Downloads\Новая папка\poject2\poject2\bin\Debug\System.Collections.Immutable.dll
+C:\Users\ZDani\Downloads\Новая папка\poject2\poject2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ZDani\Downloads\Новая папка\poject2\poject2\bin\Debug\System.Memory.dll
+C:\Users\ZDani\Downloads\Новая папка\poject2\poject2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ZDani\Downloads\Новая папка\poject2\poject2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ZDani\Downloads\Новая папка\poject2\poject2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ZDani\Downloads\Новая папка\poject2\poject2\bin\Debug\System.Text.Json.dll
+C:\Users\ZDani\Downloads\Новая папка\poject2\poject2\bin\Debug\System.Threading.Channels.dll
+C:\Users\ZDani\Downloads\Новая папка\poject2\poject2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ZDani\Downloads\Новая папка\poject2\poject2\bin\Debug\System.ValueTuple.dll
+C:\Users\ZDani\Downloads\Новая папка\poject2\poject2\bin\Debug\Google.Protobuf.dll
+C:\Users\ZDani\Downloads\Новая папка\poject2\poject2\bin\Debug\Zstandard.Net.dll
+C:\Users\ZDani\Downloads\Новая папка\poject2\poject2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ZDani\Downloads\Новая папка\poject2\poject2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ZDani\Downloads\Новая папка\poject2\poject2\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\ZDani\Downloads\Новая папка\poject2\poject2\bin\Debug\Renci.SshNet.dll
+C:\Users\ZDani\Downloads\Новая папка\poject2\poject2\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ZDani\Downloads\Новая папка\poject2\poject2\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ZDani\Downloads\Новая папка\poject2\poject2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ZDani\Downloads\Новая папка\poject2\poject2\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\ZDani\Downloads\Новая папка\poject2\poject2\bin\Debug\MySql.Data.xml
+C:\Users\ZDani\Downloads\Новая папка\poject2\poject2\bin\Debug\Npgsql.xml
+C:\Users\ZDani\Downloads\Новая папка\poject2\poject2\bin\Debug\System.Buffers.xml
+C:\Users\ZDani\Downloads\Новая папка\poject2\poject2\bin\Debug\System.Collections.Immutable.xml
+C:\Users\ZDani\Downloads\Новая папка\poject2\poject2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ZDani\Downloads\Новая папка\poject2\poject2\bin\Debug\System.Memory.xml
+C:\Users\ZDani\Downloads\Новая папка\poject2\poject2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ZDani\Downloads\Новая папка\poject2\poject2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ZDani\Downloads\Новая папка\poject2\poject2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ZDani\Downloads\Новая папка\poject2\poject2\bin\Debug\System.Text.Json.xml
+C:\Users\ZDani\Downloads\Новая папка\poject2\poject2\bin\Debug\System.Threading.Channels.xml
+C:\Users\ZDani\Downloads\Новая папка\poject2\poject2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ZDani\Downloads\Новая папка\poject2\poject2\bin\Debug\System.ValueTuple.xml
+C:\Users\ZDani\Downloads\Новая папка\poject2\poject2\obj\Debug\poject2.Admin.resources
+C:\Users\ZDani\Downloads\Новая папка\poject2\poject2\obj\Debug\poject2.certify.resources
+C:\Users\ZDani\Downloads\Новая папка\poject2\poject2\obj\Debug\poject2.diagr.resources
+C:\Users\ZDani\Downloads\Новая папка\poject2\poject2\obj\Debug\poject2.Log.resources
+C:\Users\ZDani\Downloads\Новая папка\poject2\poject2\obj\Debug\poject2.MainMenu.resources
+C:\Users\ZDani\Downloads\Новая папка\poject2\poject2\obj\Debug\poject2.Primeri.resources
+C:\Users\ZDani\Downloads\Новая папка\poject2\poject2\obj\Debug\poject2.Properties.Resources.resources
+C:\Users\ZDani\Downloads\Новая папка\poject2\poject2\obj\Debug\poject2.Reg.resources
+C:\Users\ZDani\Downloads\Новая папка\poject2\poject2\obj\Debug\poject2.RESULTS.resources
+C:\Users\ZDani\Downloads\Новая папка\poject2\poject2\obj\Debug\poject2.results2.resources
+C:\Users\ZDani\Downloads\Новая папка\poject2\poject2\obj\Debug\poject2.results3.resources
+C:\Users\ZDani\Downloads\Новая папка\poject2\poject2\obj\Debug\poject2.ShowUsers.resources
+C:\Users\ZDani\Downloads\Новая папка\poject2\poject2\obj\Debug\poject2.Student.resources
+C:\Users\ZDani\Downloads\Новая папка\poject2\poject2\obj\Debug\poject2.student1.resources
+C:\Users\ZDani\Downloads\Новая папка\poject2\poject2\obj\Debug\poject2.student2.resources
+C:\Users\ZDani\Downloads\Новая папка\poject2\poject2\obj\Debug\poject2.student3.resources
+C:\Users\ZDani\Downloads\Новая папка\poject2\poject2\obj\Debug\poject2.Teacher.resources
+C:\Users\ZDani\Downloads\Новая папка\poject2\poject2\obj\Debug\poject2.TeacherCheck.resources
+C:\Users\ZDani\Downloads\Новая папка\poject2\poject2\obj\Debug\poject2.TeacherResult.resources
+C:\Users\ZDani\Downloads\Новая папка\poject2\poject2\obj\Debug\poject2.test2.resources
+C:\Users\ZDani\Downloads\Новая папка\poject2\poject2\obj\Debug\poject2.test3.resources
+C:\Users\ZDani\Downloads\Новая папка\poject2\poject2\obj\Debug\poject2.Theory.resources
+C:\Users\ZDani\Downloads\Новая папка\poject2\poject2\obj\Debug\poject2.csproj.GenerateResource.cache
+C:\Users\ZDani\Downloads\Новая папка\poject2\poject2\obj\Debug\poject2.csproj.CoreCompileInputs.cache
+C:\Users\ZDani\Downloads\Новая папка\poject2\poject2\obj\Debug\poject2.csproj.CopyComplete
+C:\Users\ZDani\Downloads\Новая папка\poject2\poject2\bin\Debug\MaterialSkin.dll
